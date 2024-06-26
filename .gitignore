@@ -190,4 +190,3 @@ cython_debug/
 **/Background
 **/train
 **/test
-*.zip
